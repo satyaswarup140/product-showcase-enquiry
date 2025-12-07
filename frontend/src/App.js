@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import ProductPage from "./pages/ProductPage";
 import AdminLogin from "./pages/AdminLogin";
 import Products from "./pages/Products";
+import './styles/styles.css';
 import AdminDashboard from "./pages/AdminDashboard";
 
 function App() {
